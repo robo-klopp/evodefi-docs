@@ -15,5 +15,3 @@ We recommend reading through our how-to guides in this order:
 {% page-ref-page="how-to-fuse-nfts" %}
 
 {% page-ref-page="how-to-use-token-bridge" %}
-
-{% page-ref-page="bridge-useful-links" %}
